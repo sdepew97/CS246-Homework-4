@@ -3,8 +3,13 @@
    Prototypes for the matrix multiplication functions.
 */
 
+#include <stdbool.h>
+
+// checks to see if two NxM matrices are the same
+bool eq_matrix(int n, int m, int mat1[n][m], int mat2[n][m]);
+
 // prints an NxM matrix
-void print_matrix(int n, int m, int result[n][m]);
+void print_matrix(int n, int m, int mat[n][m]);
 
 // multiplies an NxM matrix by a scalar; stores the result in `result`
 void scalar_mult(int scalar, int n, int m, int mat[n][m], int result[n][m]);
