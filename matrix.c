@@ -33,3 +33,12 @@ bool matrix_mult(int n1, int m1, int mat1[n1][m1],
 {
   // WRITE ME
 }
+
+// Exponentiate an NxM matrix. Returns true if this is possible (that is,
+// when both dimensions are the same) and false otherwise. The result
+// is stored in `result`.
+bool matrix_pow(int n, int m, int mat[n][m], int power,
+		int result[n][m])
+{
+  // WRITE ME
+}
