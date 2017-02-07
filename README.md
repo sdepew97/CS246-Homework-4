@@ -11,7 +11,7 @@ title: CS 246 Assignment 4
 
 [Link back to syllabus](http://cs.brynmawr.edu/cs246/syllabus.html)
 
-[Click here to start assignment](TODO)
+[Click here to start assignment](https://classroom.github.com/group-assignment-invitations/604324bd93afdbf9a398a452e2a5c303)
 
 Like all assignments, you will complete this assignment via
 GitHub. See [the submission instructions](../submission.html)
