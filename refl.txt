@@ -3,6 +3,21 @@ Assignment 4 reflections.
 Please answer the questions below:
 
 1. How did this assignment go for you? (Please write several sentences.)
+
+This assignment went well for me. Since I took linear algebra last year, I was fairly familiar with
+most of the matrix computations required for the assignment. As a result, I was able to code them in a 
+fairly straightforward manner. 
+
 2. What was hard about this assignment?
+
+I guess one hard part was when I was briefly confused about what it meant to raise a matrix to a power. 
+Additionally, writing a makefile and doing my own tests were time-intensive, but helpful. 
+
 3. What would you like to know more about?
+
+I would like you to know that I will be doing a software engineering internship this summer 
+with Lockheed Martin. 
+
 4. How long did this assignment take you? (Do not include time spent on the readings.)
+
+This assignment took me about 8-10 hours, but I am also very thorough and did a lot of tests. 

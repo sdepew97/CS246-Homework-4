@@ -1,9 +1,13 @@
 /* matrix.h
 
+   Name: Sarah Depew
+   
    Prototypes for the matrix multiplication functions.
 */
 
 #include <stdbool.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 // checks to see if two NxM matrices are the same
 bool eq_matrix(int n, int m, int mat1[n][m], int mat2[n][m]);
@@ -27,3 +31,6 @@ void matrix_pow(int n, int mat[n][n], int power, int result[n][n]);
 
 // Exponentiate an NxN matrix. The result is stored in `result`.
 void matrix_pow_rec(int n, int mat[n][n], int power, int result[n][n]);
+
+//Fills the nxn matrix with random values between 0-99
+void fill_matrix(int n, int mat[n][n]);
